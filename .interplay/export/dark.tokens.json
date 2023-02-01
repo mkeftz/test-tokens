@@ -1,0 +1,54 @@
+{
+  "$extensions": {
+    "com.interplayapp.version": "0.0.5"
+  },
+  "colors": {
+    "$type": "color",
+    "background": {
+      "$type": "color",
+      "primary": {
+        "$value": "{colors.base.gray8}"
+      },
+      "secondary": {
+        "$value": "{colors.base.gray7}"
+      },
+      "tertiary": {
+        "$value": "{colors.base.gray6}"
+      },
+      "accent": {
+        "$value": "{colors.base.purple-darkest}"
+      }
+    },
+    "text": {
+      "$type": "color",
+      "primary": {
+        "$value": "{colors.base.white}"
+      },
+      "secondary": {
+        "$value": "{colors.base.gray3}"
+      },
+      "accent": {
+        "$value": "{colors.base.purple-lighter}"
+      }
+    }
+  },
+  "Border": {
+    "Border Styles": {
+      "$type": "border",
+      "light": {
+        "$value": {
+          "color": "{colors.base.gray5}",
+          "style": "solid",
+          "width": "1px"
+        }
+      },
+      "heavy": {
+        "$value": {
+          "color": "{colors.base.gray5}",
+          "style": "solid",
+          "width": "2px"
+        }
+      }
+    }
+  }
+}
