@@ -1,6 +1,6 @@
 {
   "$extensions": {
-    "com.interplayapp.version": "0.0.3"
+    "com.interplayapp.version": "0.0.4"
   },
   "direction": {
     "$value": "auto"
@@ -34,7 +34,7 @@
         "$value": "{colors.base.gray100}"
       },
       "primary": {
-        "$value": "{colors.base.black}"
+        "$value": "{colors.components.tag.accent.tagAccentSolidBackground}"
       },
       "primaryB": {
         "$description": "",
@@ -830,7 +830,7 @@
         },
         "primary": {
           "buttonPrimaryFill": {
-            "$value": "{colors.theme.primary}"
+            "$value": "{colors.backgrounds.backgroundAlwaysDark}"
           },
           "buttonPrimaryText": {
             "$value": "{colors.theme.white}"

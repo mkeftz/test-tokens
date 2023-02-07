@@ -1,6 +1,6 @@
 {
   "$extensions": {
-    "com.interplayapp.version": "0.0.3"
+    "com.interplayapp.version": "0.0.4"
   },
   "direction": {
     "$value": "auto"
@@ -34,7 +34,7 @@
         "$value": "{colors.base.gray500}"
       },
       "primary": {
-        "$value": "{colors.base.white}"
+        "$value": "{colors.base.orange500}"
       },
       "primaryB": {
         "$description": "",
