@@ -1,0 +1,11 @@
+{
+  "$extensions": {
+    "com.interplayapp.version": "0.0.3"
+  },
+  "Components": {
+    "Testing token": {
+      "$type": "color",
+      "$value": "#1ae0e6"
+    }
+  }
+}
