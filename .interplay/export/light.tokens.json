@@ -1,6 +1,6 @@
 {
   "$extensions": {
-    "com.interplayapp.version": "0.0.3"
+    "com.interplayapp.version": "0.0.5"
   },
   "direction": {
     "$value": "auto"
@@ -830,7 +830,7 @@
         },
         "primary": {
           "buttonPrimaryFill": {
-            "$value": "{colors.theme.primary}"
+            "$value": "{colors.backgrounds.backgroundAlwaysDark}"
           },
           "buttonPrimaryText": {
             "$value": "{colors.theme.white}"
